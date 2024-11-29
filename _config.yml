@@ -1,6 +1,3 @@
 remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [BroPC]
-![logo](https://github.com/ramast999/RAMAST999/blob/main/smiley_icon_172891.png)
 description: [site about my job]
