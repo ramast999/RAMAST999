@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo](https://github.com/ramast999/RAMAST999/blob/main/smiley_icon_172891.png)
+![logo](ramast999/smiley_icon_172891.png)
 
 <!--
 **ramast999/RAMAST999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
