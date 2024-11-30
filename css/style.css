@@ -3,6 +3,12 @@ body {
   font-family: 'Lato', sans-serif;
   color: #040000;
 }
+@media screen and (max-width: 600px) {
+  .img-box {
+    visibility: hidden;
+    display: none;
+  }
+}
 
 .layout_padding {
   padding-top: 120px;
