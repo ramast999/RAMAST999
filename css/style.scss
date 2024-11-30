@@ -11,6 +11,13 @@ $primary2:#ff8a1d;
   font-family: 'Lato', sans-serif;
 }
 
+@media screen and (max-width: 600px) {
+  .img-box {
+    visibility: hidden;
+    display: none;
+  }
+}
+
 @mixin secondary-font {
   font-family: 'Merriweather Sans', sans-serif;
 }
