@@ -4,7 +4,13 @@ body {
   color: #040000;
 }
 @media screen and (max-width: 600px) {
-  .img-box, container-fluid {
+  .img-box {
+    visibility: hidden;
+    display: none;
+  }
+}
+@media screen and (max-width: 600px) {
+  .container-fluid {
     visibility: hidden;
     display: none;
   }
