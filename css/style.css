@@ -9,6 +9,12 @@ body {
     display: none;
   }
 }
+@media screen and (max-width: 600px) {
+  .contact_nav {
+    visibility: hidden;
+    display: none;
+  }
+}
 
 .layout_padding {
   padding-top: 120px;
