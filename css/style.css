@@ -4,13 +4,7 @@ body {
   color: #040000;
 }
 @media screen and (max-width: 600px) {
-  .img-box {
-    visibility: hidden;
-    display: none;
-  }
-}
-@media screen and (max-width: 600px) {
-  .container-fluid {
+  .img-box, .contact_nav {
     visibility: hidden;
     display: none;
   }
