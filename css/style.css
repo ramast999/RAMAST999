@@ -4,7 +4,7 @@ body {
   color: #040000;
 }
 @media screen and (max-width: 600px) {
-  .img-box, .contact_nav {
+  .contact_nav {
     visibility: hidden;
     display: none;
   }
