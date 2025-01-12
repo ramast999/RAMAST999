@@ -4,7 +4,7 @@ body {
   color: #040000;
 }
 @media screen and (max-width: 600px) {
-  .contact_nav {
+  .contact_nav, .fa fa-envelope {
     visibility: hidden;
     display: none;
   }
