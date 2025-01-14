@@ -92,6 +92,10 @@ a:focus {
   padding-right: 50px;
   padding-left: 50px;  
 }
+.container-fluid {
+  position:fixed;
+  background-color:#4D4D4D;  
+}
 
 .header_section .header_top {
   padding: 15px 0;
