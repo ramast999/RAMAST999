@@ -96,9 +96,8 @@ a:focus {
   background-color:#ff8a1d;
 }
 
-.header_section .header_top {
-  padding: 15px 0;
-  background-color: #000000;
+.header_top {
+  background-color: #ff8a1d;
 }
 
 .header_section .header_top .contact_nav {
