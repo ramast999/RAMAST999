@@ -89,6 +89,7 @@ a:focus {
 }
 
 .header_section .container-fluid {
+  position: fixed;
   padding-right: 50px;
   padding-left: 50px;
 }
