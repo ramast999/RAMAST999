@@ -92,6 +92,7 @@ a:focus {
   position: fixed;
   padding-right: 50px;
   padding-left: 50px;
+  background-color: #49423D;
 }
 
 .header_section .header_top {
