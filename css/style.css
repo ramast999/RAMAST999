@@ -89,10 +89,8 @@ a:focus {
 }
 
 .header_section .container-fluid {
-  position: fixed;
   padding-right: 50px;
-  padding-left: 50px;
-  background-color: #49423D;
+  padding-left: 50px;  
 }
 
 .header_section .header_top {
