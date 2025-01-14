@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather+Sans:wght@400;700&display=swap");
 body {
   font-family: 'Lato', sans-serif;
-  color: #040000;
+  color: #ff8a1d;
 }
 @media screen and (max-width: 600px) {
   .mail {
@@ -90,12 +90,10 @@ a:focus {
 
 .header_section .container-fluid {
   padding-right: 50px;
-  padding-left: 50px;  
-}
-.container-fluid {
+  padding-left: 50px; 
   position:fixed;
   z-index: 9999;
-  background-color:#4D4D4D;  
+  background-color:#ff8a1d;
 }
 
 .header_section .header_top {
