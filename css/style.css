@@ -94,6 +94,7 @@ a:focus {
 }
 .container-fluid {
   position:fixed;
+  z-index: 9999;
   background-color:#4D4D4D;  
 }
 
