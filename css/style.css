@@ -89,11 +89,12 @@ a:focus {
 }
 
 .header_section .container-fluid {
+  top: 0;
   padding-right: 50px;
   padding-left: 50px; 
   position:fixed;
   z-index: 9999;
-  background-color:#ff8a1d;
+  background-color:#ff8a1d;  
 }
 
 .header_top {
