@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather+Sans:wght@400;700&display=swap");
 body {
   font-family: 'Lato', sans-serif;
-  color: #ff8a1d;
+  color: #000000;
 }
 @media screen and (max-width: 600px) {
   .mail {
