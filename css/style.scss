@@ -710,13 +710,14 @@ a:focus {
     .box {
       background-color: $white;
       padding: 5px 15px;
-
+      font-size: 50px;
     }
   }
 
   a {
     margin: 0 5px;
     color: $primary1;
+    font-size: 50px;
 
     i {
       font-size: 50px;
