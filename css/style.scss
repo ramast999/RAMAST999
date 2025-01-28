@@ -706,8 +706,7 @@ a:focus {
     flex-direction: column;
     align-items: center;
     margin-top: 25px;
-    font-size: 50px;
-
+    
     .box {
       background-color: $white;
       padding: 5px 15px;
@@ -720,7 +719,7 @@ a:focus {
     color: $primary1;
 
     i {
-      font-size: 18px;
+      font-size: 50px;
     }
 
     &:hover {
